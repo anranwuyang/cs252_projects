@@ -1,0 +1,8 @@
+For this lab I have implemented all of the features except for the extra credit.
+
+The file descriptors are cleaned up but the memory leaks are not.
+
+When I run via valgrinds, I get segfaults for certain commands when they would
+work perfectly fine without valgrind.
+
+I do not have any extra features.

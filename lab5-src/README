@@ -1,0 +1,4 @@
+This http server has all features implemented except for the loadable modules with jj.
+Extra features include:
+	- POST requests for cgi bin
+	- Multithreaded log files and stats`

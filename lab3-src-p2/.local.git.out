@@ -1,0 +1,1913 @@
+[master (root-commit) aaf5a83] Commit Shell
+ 8 files changed, 697 insertions(+)
+ create mode 100755 cat_grep.cc
+ create mode 100755 command.cc
+ create mode 100755 command.h
+ create mode 100755 ctrl-c.cc
+ create mode 100755 regular.cc
+ create mode 100755 shell.l
+ create mode 100755 shell.y
+ create mode 100644 y.tab.h
+[master a8b229c] Commit Shell
+ 1 file changed, 29 insertions(+), 10 deletions(-)
+[master 2959cff] Commit Shell
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+[master 32202c9] Commit Shell
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+[master c0e0ce3] Commit Shell
+ 1 file changed, 13 insertions(+), 7 deletions(-)
+[master (root-commit) a5bff4a] Commit Shell
+ 7 files changed, 629 insertions(+)
+ create mode 100755 cat_grep.cc
+ create mode 100755 command.cc
+ create mode 100755 command.h
+ create mode 100755 ctrl-c.cc
+ create mode 100755 regular.cc
+ create mode 100755 shell.l
+ create mode 100755 shell.y
+[master 5c5e678] Commit Shell
+ 1 file changed, 96 insertions(+)
+ create mode 100644 y.tab.h
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master e587324] Commit Shell
+ 1 file changed, 96 deletions(-)
+ delete mode 100644 y.tab.h
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	test-shell/
+
+nothing added to commit but untracked files present
+[master bb9445c] Commit Shell
+ 1 file changed, 96 insertions(+)
+ create mode 100644 y.tab.h
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master (root-commit) 002830c] Commit Shell
+ 6 files changed, 590 insertions(+)
+ create mode 100755 cat_grep.cc
+ create mode 100755 command.cc
+ create mode 100755 ctrl-c.cc
+ create mode 100755 regular.cc
+ create mode 100755 shell.l
+ create mode 100755 shell.y
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	Makefile
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master b83233a] Commit Shell
+ 1 file changed, 42 insertions(+)
+ create mode 100755 Makefile
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 3e51aae] Commit Shell
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.h
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.h
+	y.tab.o
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.Makefile.swp
+	.hello
+	.local.git.out
+	command.h
+	test-shell/
+
+nothing added to commit but untracked files present
+[master bea55b8] ""
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 3cb9c7d] ""
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 0bd3766] Total:                   3   of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master (root-commit) 4eddc26] Total:                   3   of 100
+ 7 files changed, 632 insertions(+)
+ create mode 100755 Makefile
+ create mode 100755 cat_grep.cc
+ create mode 100755 command.cc
+ create mode 100755 ctrl-c.cc
+ create mode 100755 regular.cc
+ create mode 100755 shell.l
+ create mode 100755 shell.y
+[master 76167bf] Commit
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+[master ae91eaf] Commit
+ 3 files changed, 137 insertions(+), 2 deletions(-)
+ create mode 100755 command.h
+ create mode 100644 y.tab.h
+On branch master
+Untracked files:
+	.hello
+	.local.git.out
+	cat_grep
+	command.o
+	ctrl-c
+	lex.yy.c
+	lex.yy.o
+	regular
+	shell
+	test-shell/
+	y.tab.c
+	y.tab.o
+
+nothing added to commit but untracked files present
+[master 3a12f8a] Commit
+ 1 file changed, 96 deletions(-)
+ delete mode 100644 y.tab.h
+[master dd015da] Commit
+ 3 files changed, 85 insertions(+), 1 deletion(-)
+ create mode 100644 test-shell/testall.out
+ create mode 100644 y.tab.h
+[master 084eb77] Commit
+ 1 file changed, 83 deletions(-)
+ delete mode 100644 y.tab.h
+[master 2b496cc] Commit
+ 53 files changed, 1258 insertions(+)
+ create mode 100755 test-shell/README
+ create mode 100755 test-shell/bgfile
+ create mode 100644 test-shell/csh-in
+ create mode 100644 test-shell/csh-out
+ create mode 100644 test-shell/err2
+ create mode 100755 test-shell/file-list
+ create mode 100755 test-shell/file1.cc
+ create mode 100755 test-shell/out
+ create mode 100644 test-shell/shell-in
+ create mode 100644 test-shell/shell-out
+ create mode 100755 test-shell/test1
+ create mode 100755 test-shell/test10
+ create mode 100755 test-shell/test102
+ create mode 100755 test-shell/test103
+ create mode 100755 test-shell/test104
+ create mode 100755 test-shell/test105
+ create mode 100755 test-shell/test106
+ create mode 100755 test-shell/test107
+ create mode 100755 test-shell/test108
+ create mode 100755 test-shell/test109
+ create mode 100755 test-shell/test11
+ create mode 100755 test-shell/test110
+ create mode 100755 test-shell/test111
+ create mode 100755 test-shell/test112
+ create mode 100755 test-shell/test112-2
+ create mode 100755 test-shell/test113
+ create mode 100755 test-shell/test114
+ create mode 100755 test-shell/test115
+ create mode 100755 test-shell/test116
+ create mode 100755 test-shell/test12
+ create mode 100755 test-shell/test13
+ create mode 100755 test-shell/test14
+ create mode 100755 test-shell/test15
+ create mode 100755 test-shell/test16
+ create mode 100755 test-shell/test17
+ create mode 100755 test-shell/test18
+ create mode 100755 test-shell/test2
+ create mode 100755 test-shell/test201
+ create mode 100755 test-shell/test202
+ create mode 100755 test-shell/test203
+ create mode 100755 test-shell/test204
+ create mode 100755 test-shell/test3
+ create mode 100755 test-shell/test3-2
+ create mode 100755 test-shell/test3-3
+ create mode 100755 test-shell/test4
+ create mode 100755 test-shell/test5
+ create mode 100755 test-shell/test6
+ create mode 100755 test-shell/test7
+ create mode 100755 test-shell/test8
+ create mode 100755 test-shell/test9
+ create mode 100755 test-shell/testall
+ create mode 100644 y.tab.h
+[master ce4a876] Commit
+ 2 files changed, 1 insertion(+), 84 deletions(-)
+ delete mode 100644 y.tab.h
+[master (root-commit) d252267] Commit
+ 64 files changed, 1861 insertions(+)
+ create mode 100755 Makefile
+ create mode 100755 cat_grep.cc
+ create mode 100755 command.cc
+ create mode 100755 command.h
+ create mode 100755 ctrl-c.cc
+ create mode 100755 regular.cc
+ create mode 100755 shell.l
+ create mode 100755 shell.y
+ create mode 100755 test-shell/README
+ create mode 100755 test-shell/bgfile
+ create mode 100644 test-shell/csh-in
+ create mode 100644 test-shell/csh-out
+ create mode 100644 test-shell/err2
+ create mode 100755 test-shell/file-list
+ create mode 100755 test-shell/file1.cc
+ create mode 100755 test-shell/files/aaa
+ create mode 100755 test-shell/files/aaaa
+ create mode 100755 test-shell/files/bbb
+ create mode 100755 test-shell/files/ccc
+ create mode 100755 test-shell/out
+ create mode 100644 test-shell/shell-in
+ create mode 100644 test-shell/shell-out
+ create mode 100755 test-shell/test1
+ create mode 100755 test-shell/test10
+ create mode 100755 test-shell/test102
+ create mode 100755 test-shell/test103
+ create mode 100755 test-shell/test104
+ create mode 100755 test-shell/test105
+ create mode 100755 test-shell/test106
+ create mode 100755 test-shell/test107
+ create mode 100755 test-shell/test108
+ create mode 100755 test-shell/test109
+ create mode 100755 test-shell/test11
+ create mode 100755 test-shell/test110
+ create mode 100755 test-shell/test111
+ create mode 100755 test-shell/test112
+ create mode 100755 test-shell/test112-2
+ create mode 100755 test-shell/test113
+ create mode 100755 test-shell/test114
+ create mode 100755 test-shell/test115
+ create mode 100755 test-shell/test116
+ create mode 100755 test-shell/test12
+ create mode 100755 test-shell/test13
+ create mode 100755 test-shell/test14
+ create mode 100755 test-shell/test15
+ create mode 100755 test-shell/test16
+ create mode 100755 test-shell/test17
+ create mode 100755 test-shell/test18
+ create mode 100755 test-shell/test2
+ create mode 100755 test-shell/test201
+ create mode 100755 test-shell/test202
+ create mode 100755 test-shell/test203
+ create mode 100755 test-shell/test204
+ create mode 100755 test-shell/test3
+ create mode 100755 test-shell/test3-2
+ create mode 100755 test-shell/test3-3
+ create mode 100755 test-shell/test4
+ create mode 100755 test-shell/test5
+ create mode 100755 test-shell/test6
+ create mode 100755 test-shell/test7
+ create mode 100755 test-shell/test8
+ create mode 100755 test-shell/test9
+ create mode 100755 test-shell/testall
+ create mode 100644 test-shell/testall.out
+[master (root-commit) 7f1c2d5] Commit
+ 9 files changed, 755 insertions(+)
+ create mode 100755 Makefile
+ create mode 100755 cat_grep.cc
+ create mode 100755 command.cc
+ create mode 100755 command.h
+ create mode 100755 ctrl-c.cc
+ create mode 100755 regular.cc
+ create mode 100755 shell.l
+ create mode 100755 shell.y
+ create mode 100644 y.tab.h
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+nothing to commit, working directory clean
+[master 4affb07] Commit
+ 2 files changed, 5 insertions(+), 1 deletion(-)
+Your branch is up-to-date with 'origin/master'.
+[master e96610b] Commit
+ 1 file changed, 1 insertion(+)
+M	.local.git.out
+Your branch is up-to-date with 'origin/master'.
+[master a0d14c7] Commit
+ 1 file changed, 4 insertions(+)
+M	.local.git.out
+M	shell.l
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master 89c4e7c] Commit
+ 3 files changed, 11 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 4649790] Commit
+ 2 files changed, 15 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 003d467] Commit
+ 2 files changed, 5 insertions(+), 13 deletions(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 33bf29f] Commit
+ 2 files changed, 18 insertions(+)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 46b2383] Commit
+ 2 files changed, 7 insertions(+), 2 deletions(-)
+M	.local.git.out
+Your branch is up-to-date with 'origin/master'.
+[master 0cffb44] Commit
+ 1 file changed, 4 insertions(+)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+Your branch is up-to-date with 'origin/master'.
+[master 49f14bc] Commit
+ 1 file changed, 1 insertion(+)
+M	.local.git.out
+M	shell.l
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master d635acb] Commit
+ 3 files changed, 37 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	command.cc
+M	shell.l
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master 86938a7] Commit
+ 4 files changed, 44 insertions(+), 8 deletions(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master 4b93a75] Commit
+ 2 files changed, 6 insertions(+)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master 8f30a7b] Commit
+ 2 files changed, 7 insertions(+), 4 deletions(-)
+M	.local.git.out
+Your branch is up-to-date with 'origin/master'.
+[master f5293d6] Commit
+ 1 file changed, 4 insertions(+)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 3255e6a] Commit
+ 2 files changed, 9 insertions(+), 4 deletions(-)
+M	.local.git.out
+Your branch is up-to-date with 'origin/master'.
+[master 8ee065a] Commit
+ 1 file changed, 4 insertions(+)
+M	.local.git.out
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master 1e35cff] Commit
+ 2 files changed, 8 insertions(+), 6 deletions(-)
+M	.local.git.out
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master aa104b5] Commit
+ 2 files changed, 5 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 11ee2e9] Commit
+ 2 files changed, 5 insertions(+), 4 deletions(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 93a9b50] Commit
+ 2 files changed, 9 insertions(+), 4 deletions(-)
+M	.local.git.out
+Your branch is up-to-date with 'origin/master'.
+[master 52f20f0] Commit
+ 1 file changed, 4 insertions(+)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master ea3f556] Commit
+ 2 files changed, 11 insertions(+)
+M	.local.git.out
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master 508e6b7] Commit
+ 2 files changed, 7 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	shell.l
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master 9b66abd] Commit
+ 3 files changed, 12 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master 17946a8] Commit
+ 2 files changed, 21 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master 7718af5] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master a0c1659] Commit
+ 2 files changed, 12 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master d7a493e] Commit
+ 2 files changed, 9 insertions(+), 2 deletions(-)
+M	.local.git.out
+Your branch is up-to-date with 'origin/master'.
+[master a456cb1] Commit
+ 1 file changed, 4 insertions(+)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master 579866d] Commit
+ 3 files changed, 9 insertions(+), 3 deletions(-)
+ create mode 100644 test-shell/testall.out
+M	.local.git.out
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master 99f041b] Commit
+ 2 files changed, 6 insertions(+), 4 deletions(-)
+M	.local.git.out
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master 7b12019] Commit
+ 2 files changed, 25 insertions(+), 12 deletions(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master 08938bc] Commit
+ 2 files changed, 37 insertions(+)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master 48d5584] Commit
+ 2 files changed, 10 insertions(+), 6 deletions(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master 40ecc17] Commit
+ 2 files changed, 9 insertions(+), 4 deletions(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master abed7fd] Commit
+ 2 files changed, 9 insertions(+), 4 deletions(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master 89a53c4] Commit
+ 2 files changed, 6 insertions(+)
+M	.local.git.out
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master d79f1f7] Commit
+ 2 files changed, 12 insertions(+), 7 deletions(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master 74c94ef] Commit
+ 2 files changed, 10 insertions(+), 5 deletions(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master 7ce503e] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master 3bcad06] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	command.cc
+M	command.hh
+M	shell.y
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master c3cdf02] Commit
+ 5 files changed, 16 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master d7f0816] Commit
+ 2 files changed, 5 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master 6243c11] Commit
+ 2 files changed, 7 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master e2528cc] Commit
+ 2 files changed, 9 insertions(+), 4 deletions(-)
+M	.local.git.out
+Your branch is up-to-date with 'origin/master'.
+[master bb61f50] Commit
+ 1 file changed, 4 insertions(+)
+M	.local.git.out
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master a4a9185] Commit
+ 2 files changed, 6 insertions(+)
+M	.local.git.out
+Your branch is up-to-date with 'origin/master'.
+[master 8d505ab] Commit
+ 1 file changed, 4 insertions(+)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master f60bce9] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master 9a99850] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master fdef92c] Commit
+ 2 files changed, 12 insertions(+)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master 7f1ba99] Commit
+ 2 files changed, 7 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master cc6fff3] Commit
+ 2 files changed, 7 insertions(+)
+M	.local.git.out
+M	command.cc
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master 81a40eb] Commit
+ 3 files changed, 13 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	command.cc
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master 122f465] Commit
+ 3 files changed, 10 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master 7281898] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master ca68b6e] Commit
+ 2 files changed, 8 insertions(+), 3 deletions(-)
+M	.local.git.out
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master 5cd5cee] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	command.cc
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master fb11a0b] Commit
+ 3 files changed, 12 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	command.cc
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master 1aed5c5] Commit
+ 3 files changed, 9 insertions(+), 3 deletions(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master a050e8d] Commit
+ 2 files changed, 19 insertions(+), 10 deletions(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master 3cbdf09] Commit
+ 2 files changed, 8 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	command.cc
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master e9de7e8] Commit
+ 3 files changed, 8 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	shell.y
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master 8825bcf] Commit
+ 3 files changed, 11 insertions(+), 5 deletions(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master 2c2e993] Commit
+ 2 files changed, 9 insertions(+)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master 1626aa2] Commit
+ 2 files changed, 8 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master 23bd535] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master de8299b] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	command.cc
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master c5b58df] Commit
+ 3 files changed, 8 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master b017ae9] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master ecd89b0] Commit
+ 2 files changed, 11 insertions(+), 4 deletions(-)
+M	.local.git.out
+M	shell.y
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master 69c8efc] Commit
+ 3 files changed, 38 insertions(+), 10 deletions(-)
+M	.local.git.out
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master 04db7da] Commit
+ 2 files changed, 10 insertions(+), 5 deletions(-)
+M	.local.git.out
+M	shell.y
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master b4709ae] Commit
+ 3 files changed, 17 insertions(+), 6 deletions(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master b5af5e0] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	command.cc
+M	shell.y
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master ff49fb9] Commit
+ 4 files changed, 18 insertions(+), 11 deletions(-)
+M	.local.git.out
+M	command.cc
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master b129b47] Commit
+ 3 files changed, 9 insertions(+), 3 deletions(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master 61371cd] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	command.cc
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master 36eaf0e] Commit
+ 3 files changed, 10 insertions(+), 4 deletions(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master 631c882] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master 2236c4c] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master 4ea933d] Commit
+ 2 files changed, 6 insertions(+)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master 5f3e3e0] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+Branch master set up to track remote branch master from origin.
+Your branch is up-to-date with 'origin/master'.
+[master 294c076] Commit
+ 1 file changed, 1 insertion(+)
+M	.local.git.out
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master c09a709] Commit
+ 2 files changed, 13 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	command.cc
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master 7b4ea98] Commit
+ 3 files changed, 21 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	command.cc
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master 7eef01b] Commit
+ 3 files changed, 21 insertions(+), 9 deletions(-)
+M	.local.git.out
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master 7019f65] Commit
+ 2 files changed, 6 insertions(+)
+M	.local.git.out
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master 533e8ff] Commit
+ 2 files changed, 23 insertions(+), 15 deletions(-)
+M	.local.git.out
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master ecf96e1] Commit
+ 2 files changed, 8 insertions(+)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master 155652c] Commit
+ 2 files changed, 5 insertions(+), 5 deletions(-)
+M	.local.git.out
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master 35a2aeb] Commit
+ 2 files changed, 15 insertions(+), 12 deletions(-)
+M	.local.git.out
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master 99a66aa] Commit
+ 2 files changed, 10 insertions(+), 10 deletions(-)
+M	.local.git.out
+M	shell.cc
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master 6346623] Commit
+ 3 files changed, 19 insertions(+), 9 deletions(-)
+M	.local.git.out
+M	shell.cc
+Your branch is up-to-date with 'origin/master'.
+[master 37c443a] Commit
+ 2 files changed, 9 insertions(+)
+M	.local.git.out
+M	shell.cc
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master dd740d2] Commit
+ 3 files changed, 11 insertions(+), 4 deletions(-)
+M	.local.git.out
+M	shell.cc
+Your branch is up-to-date with 'origin/master'.
+[master 53814be] Commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.cc
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master bd31c01] Commit
+ 3 files changed, 10 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master fa1ad30] Commit
+ 2 files changed, 9 insertions(+), 4 deletions(-)
+M	.local.git.out
+M	shell.cc
+Your branch is up-to-date with 'origin/master'.
+[master e49e749] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.cc
+Your branch is up-to-date with 'origin/master'.
+[master 0a4f921] Commit
+ 2 files changed, 7 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	shell.cc
+Your branch is up-to-date with 'origin/master'.
+[master c9f5bc7] Commit
+ 2 files changed, 6 insertions(+)
+M	.local.git.out
+Your branch is up-to-date with 'origin/master'.
+[master e910d8c] Commit
+ 1 file changed, 4 insertions(+)
+M	.local.git.out
+M	shell.l
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master baa867c] Commit
+ 3 files changed, 13 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 3591f7b] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.l
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master fdad9fc] Commit
+ 3 files changed, 8 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 3fdd99b] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 1b53584] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 0f05a04] Commit
+ 2 files changed, 15 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 1b38c89] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master e58193c] Commit
+ 2 files changed, 8 insertions(+)
+M	.local.git.out
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master 7ba1dce] Commit
+ 2 files changed, 7 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master d2e233d] Commit
+ 2 files changed, 5 insertions(+), 3 deletions(-)
+M	.local.git.out
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master 2312e56] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.l
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master 8b168fc] Commit
+ 3 files changed, 11 insertions(+), 11 deletions(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master c0b8656] Commit
+ 2 files changed, 12 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master f468262] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 7c79ac4] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master fafc07e] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+Your branch is up-to-date with 'origin/master'.
+[master c829b19] Commit
+ 1 file changed, 4 insertions(+)
+M	.local.git.out
+M	shell.l
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master 6b190e2] Commit
+ 3 files changed, 8 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master e8c56cc] Commit
+ 2 files changed, 8 insertions(+), 3 deletions(-)
+M	.local.git.out
+M	shell.l
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master d40bfff] Commit
+ 3 files changed, 10 insertions(+), 4 deletions(-)
+M	.local.git.out
+M	shell.l
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master 2e41982] Commit
+ 3 files changed, 10 insertions(+), 4 deletions(-)
+M	.local.git.out
+M	shell.l
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master 4f1ed60] Commit
+ 3 files changed, 8 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master a805bb9] Commit
+ 2 files changed, 24 insertions(+), 18 deletions(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master 434158f] Commit
+ 2 files changed, 24 insertions(+), 8 deletions(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master 123d88a] Commit
+ 2 files changed, 11 insertions(+), 10 deletions(-)
+M	.local.git.out
+M	command.cc
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master 01e004b] Commit
+ 3 files changed, 8 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master 0c3b1f3] Commit
+ 2 files changed, 6 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master c7e1675] Commit
+ 2 files changed, 6 insertions(+)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master 343c966] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master 8e5aadd] Commit
+ 2 files changed, 7 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	command.cc
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master 8617956] Commit
+ 3 files changed, 7 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master d7b9b16] Commit
+ 2 files changed, 17 insertions(+), 11 deletions(-)
+M	.local.git.out
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master 32cecdc] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master afd290d] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master dc1d447] Commit
+ 2 files changed, 14 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master 502aea2] Commit
+ 2 files changed, 22 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	command.cc
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master 2aac6ff] Commit
+ 3 files changed, 43 insertions(+), 38 deletions(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master 3be45a0] Commit
+ 2 files changed, 5 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	command.cc
+M	shell.cc
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master c81c9cb] Commit
+ 4 files changed, 36 insertions(+), 17 deletions(-)
+M	.local.git.out
+M	shell.l
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master e7670d4] Commit
+ 3 files changed, 18 insertions(+), 3 deletions(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master bf3db30] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.l
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master b5eb22b] Commit
+ 3 files changed, 8 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master ecde7f1] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master 4246900] Commit
+ 2 files changed, 5 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	command.cc
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master 2326363] Commit
+ 3 files changed, 8 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	shell.l
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master 66b7e9c] Commit
+ 3 files changed, 9 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	shell.l
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master 8a16e59] Commit
+ 3 files changed, 10 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	command.cc
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master 454e29a] Commit
+ 3 files changed, 13 insertions(+), 3 deletions(-)
+M	.local.git.out
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master 7063bae] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master b145a68] Commit
+ 2 files changed, 14 insertions(+), 6 deletions(-)
+M	.local.git.out
+M	command.cc
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master 8df9db0] Commit
+ 3 files changed, 17 insertions(+), 13 deletions(-)
+M	.local.git.out
+M	shell.l
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master 45c15ba] Commit
+ 3 files changed, 9 insertions(+), 6 deletions(-)
+M	.local.git.out
+Your branch is up-to-date with 'origin/master'.
+[master 7163d9d] Commit
+ 1 file changed, 4 insertions(+)
+M	.local.git.out
+M	shell.l
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master 19d397a] Commit
+ 3 files changed, 8 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	shell.cc
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master 70f2127] Commit
+ 3 files changed, 9 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	shell.cc
+Your branch is up-to-date with 'origin/master'.
+[master 36a9be4] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.cc
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master 4524acb] Commit
+ 3 files changed, 9 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	shell.cc
+Your branch is up-to-date with 'origin/master'.
+[master 5899896] Commit
+ 2 files changed, 9 insertions(+)
+M	.local.git.out
+M	shell.cc
+Your branch is up-to-date with 'origin/master'.
+[master 391ed38] Commit
+ 2 files changed, 9 insertions(+), 3 deletions(-)
+M	.local.git.out
+M	shell.cc
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master 8352edd] Commit
+ 3 files changed, 11 insertions(+), 3 deletions(-)
+M	.local.git.out
+M	shell.cc
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master ad9fa8e] Commit
+ 3 files changed, 11 insertions(+), 4 deletions(-)
+M	.local.git.out
+M	shell.cc
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master 064c22e] Commit
+ 3 files changed, 11 insertions(+), 6 deletions(-)
+M	.local.git.out
+M	shell.cc
+Your branch is up-to-date with 'origin/master'.
+[master 8d1381b] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.l
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master 2616990] Commit
+ 3 files changed, 19 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.cc
+Your branch is up-to-date with 'origin/master'.
+[master 2e9db4f] Commit
+ 2 files changed, 7 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master 2aac9dd] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master 7bf0daa] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master 4e28294] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.l
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master 7fdac5c] Commit
+ 3 files changed, 42 insertions(+), 5 deletions(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master f217e10] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 6de7f4a] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 5e0013c] Commit
+ 2 files changed, 7 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 597229c] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 6853d92] Commit
+ 2 files changed, 14 insertions(+), 3 deletions(-)
+ mode change 100644 => 100755 shell.l
+M	.local.git.out
+Your branch is up-to-date with 'origin/master'.
+[master c1d6ce2] Commit
+ 1 file changed, 5 insertions(+)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 834ac25] Commit
+ 2 files changed, 6 insertions(+)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 06a0fa9] Commit
+ 2 files changed, 31 insertions(+), 21 deletions(-)
+M	.local.git.out
+M	shell.l
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master 97e8fd7] Commit
+ 3 files changed, 10 insertions(+), 4 deletions(-)
+ mode change 100644 => 100755 shell.y
+M	.local.git.out
+Your branch is up-to-date with 'origin/master'.
+[master 7ac5d8a] Commit
+ 1 file changed, 5 insertions(+)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 008cb1b] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master bb7ec7e] Commit
+ 2 files changed, 5 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.l
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master 6069df2] Commit
+ 3 files changed, 11 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 788aa43] Commit
+ 2 files changed, 8 insertions(+), 3 deletions(-)
+M	.local.git.out
+Your branch is up-to-date with 'origin/master'.
+[master 8ecd0a2] Commit
+ 1 file changed, 4 insertions(+)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 441c2cf] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+Your branch is up-to-date with 'origin/master'.
+[master a728e57] Commit
+ 1 file changed, 4 insertions(+)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 067254c] Commit
+ 2 files changed, 10 insertions(+), 3 deletions(-)
+M	.local.git.out
+Your branch is up-to-date with 'origin/master'.
+[master 40573f9] Commit
+ 1 file changed, 4 insertions(+)
+M	.local.git.out
+Your branch is up-to-date with 'origin/master'.
+[master ac4755c] Commit
+ 1 file changed, 4 insertions(+)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master c7d6c6d] Commit
+ 2 files changed, 5 insertions(+), 1 deletion(-)
+M	.local.git.out
+Your branch is up-to-date with 'origin/master'.
+[master 650f0c1] Commit
+ 1 file changed, 4 insertions(+)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 2257deb] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+Your branch is up-to-date with 'origin/master'.
+[master 1a0c5a2] Commit
+ 1 file changed, 4 insertions(+)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master d5fabd0] Commit
+ 2 files changed, 8 insertions(+), 3 deletions(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 1b6a54b] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master aa945b6] Commit
+ 2 files changed, 7 insertions(+), 2 deletions(-)
+M	.local.git.out
+Your branch is up-to-date with 'origin/master'.
+[master 4895ea0] Commit
+ 1 file changed, 4 insertions(+)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 90076de] Commit
+ 2 files changed, 6 insertions(+)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master ac4d91b] Commit
+ 2 files changed, 5 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master cb1f6ac] Commit
+ 2 files changed, 6 insertions(+)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 29d4588] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.l
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master 95f90e3] Commit
+ 3 files changed, 7 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 3a74bdb] Commit
+ 2 files changed, 7 insertions(+)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 1bbb2d6] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master fc0f546] Commit
+ 2 files changed, 5 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 94218d5] Commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master fab3c02] Commit
+ 2 files changed, 7 insertions(+), 3 deletions(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 5d27f3f] Commit
+ 2 files changed, 7 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master c92fbc2] Commit
+ 2 files changed, 8 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.l
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master 43666c6] Commit
+ 3 files changed, 11 insertions(+)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 7ec264e] Commit
+ 2 files changed, 8 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 7f92701] Commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master b4e1f9b] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 09b6aec] Commit
+ 2 files changed, 12 insertions(+), 4 deletions(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 8f6606a] Commit
+ 2 files changed, 6 insertions(+), 3 deletions(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master d842dae] Commit
+ 2 files changed, 7 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 784a35d] Commit
+ 2 files changed, 7 insertions(+)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 76f9666] Commit
+ 2 files changed, 11 insertions(+), 6 deletions(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 631fc67] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.l
+M	shell.y
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master a7d014f] Commit
+ 4 files changed, 10 insertions(+), 4 deletions(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master aad44ec] Commit
+ 2 files changed, 12 insertions(+), 1 deletion(-)
+M	.local.git.out
+Your branch is up-to-date with 'origin/master'.
+[master c6e689c] Commit
+ 1 file changed, 4 insertions(+)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 9c0fb08] Commit
+ 2 files changed, 8 insertions(+), 3 deletions(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 8694122] Commit
+ 2 files changed, 7 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master df38181] Commit
+ 2 files changed, 7 insertions(+), 2 deletions(-)
+M	.local.git.out
+Your branch is up-to-date with 'origin/master'.
+[master 8ef56df] Commit
+ 1 file changed, 4 insertions(+)
+M	.local.git.out
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master 4196a78] Commit
+ 2 files changed, 5 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 8bad31e] Commit
+ 2 files changed, 6 insertions(+)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 48cc03d] Commit
+ 2 files changed, 15 insertions(+), 11 deletions(-)
+M	.local.git.out
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master 9baf99e] Commit
+ 2 files changed, 6 insertions(+)
+M	.local.git.out
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master c536fda] Commit
+ 2 files changed, 9 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	command.cc
+M	shell.l
+M	test-shell/test_subshell
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master ea6635c] Commit
+ 5 files changed, 27 insertions(+), 5 deletions(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master 48da3ce] Commit
+ 2 files changed, 10 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master a940286] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master 1aa318b] Commit
+ 2 files changed, 5 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master ee16a1a] Commit
+ 2 files changed, 6 insertions(+)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master d0eca6d] Commit
+ 2 files changed, 5 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master 85cebdf] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+Your branch is up-to-date with 'origin/master'.
+[master 27720ec] Commit
+ 1 file changed, 4 insertions(+)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master 95130bd] Commit
+ 2 files changed, 7 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master c28d8ba] Commit
+ 2 files changed, 6 insertions(+)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master f34cb73] Commit
+ 2 files changed, 6 insertions(+)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master ace91bc] Commit
+ 2 files changed, 8 insertions(+)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 459c1e7] Commit
+ 2 files changed, 5 insertions(+), 3 deletions(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master b713468] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	command.cc
+M	test-shell/test_source
+Your branch is up-to-date with 'origin/master'.
+[master 93482c6] Commit
+ 3 files changed, 8 insertions(+), 1 deletion(-)
+M	.local.git.out
+Your branch is up-to-date with 'origin/master'.
+[master 20dc3bd] Commit
+ 1 file changed, 4 insertions(+)
+M	.local.git.out
+M	shell.l
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master 8b98772] Commit
+ 3 files changed, 17 insertions(+), 4 deletions(-)
+M	.local.git.out
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master 76d0c80] Commit
+ 2 files changed, 5 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master c43b202] Commit
+ 2 files changed, 8 insertions(+), 3 deletions(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 53e4fc0] Commit
+ 2 files changed, 5 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	shell.l
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master 8b34f65] Commit
+ 3 files changed, 9 insertions(+), 4 deletions(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 73dffec] Commit
+ 2 files changed, 5 insertions(+), 3 deletions(-)
+M	.local.git.out
+M	command.cc
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master 1f52bcd] Commit
+ 3 files changed, 17 insertions(+), 11 deletions(-)
+M	.local.git.out
+M	command.cc
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master 5ec2564] Commit
+ 3 files changed, 8 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	command.cc
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master 61c8982] Commit
+ 3 files changed, 8 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master 7dbd016] Commit
+ 2 files changed, 17 insertions(+), 12 deletions(-)
+M	.local.git.out
+M	shell.y
+Your branch is up-to-date with 'origin/master'.
+[master 1f6403d] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	command.cc
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master 31c4523] Commit
+ 3 files changed, 7 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	command.cc
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master 9becdd0] Commit
+ 3 files changed, 8 insertions(+), 3 deletions(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master 94ff66c] Commit
+ 2 files changed, 7 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	command.cc
+Your branch is up-to-date with 'origin/master'.
+[master 549248a] Commit
+ 2 files changed, 8 insertions(+), 4 deletions(-)
+M	.local.git.out
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master e5337dd] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.l
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master ceb184e] Commit
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 4322650] Commit
+ 2 files changed, 17 insertions(+), 10 deletions(-)
+M	.local.git.out
+M	shell.l
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master a5592ad] Commit
+ 3 files changed, 8 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master c347c69] Commit
+ 2 files changed, 20 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 51d1d46] Commit
+ 2 files changed, 7 insertions(+)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 4f23caf] Commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 9501c45] Commit
+ 2 files changed, 9 insertions(+), 3 deletions(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master f653a0b] Commit
+ 2 files changed, 7 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 59ed4b8] Commit
+ 2 files changed, 7 insertions(+), 2 deletions(-)
+M	.local.git.out
+Your branch is up-to-date with 'origin/master'.
+[master 5c9667e] Commit
+ 1 file changed, 4 insertions(+)
+M	.local.git.out
+Your branch is up-to-date with 'origin/master'.
+[master 4706e8d] Commit
+ 1 file changed, 4 insertions(+)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master d13d434] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master dc92d94] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master f1021d9] Commit
+ 2 files changed, 45 insertions(+), 12 deletions(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 88c7017] Commit
+ 2 files changed, 7 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 9a3855d] Commit
+ 2 files changed, 9 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	shell.l
+Your branch is up-to-date with 'origin/master'.
+[master 2baf4b4] Commit
+ 2 files changed, 8 insertions(+)
+M	.local.git.out
+M	shell.l
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master c4e45a1] Commit
+ 3 files changed, 8 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	shell.l
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+M	.local.git.out
+M	test-shell/testall.out
+Your branch is up-to-date with 'origin/master'.
+[master e336642] Commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)

@@ -1,0 +1,16 @@
+## Part 1
+
+Thread 1 works as suspected, the letters A and B are printed on the screen at random times "concurrently".
+
+Thread 2 is only printing C because the threads are spawned after the call to printC. PrintC is being run
+synchronously so it will never finish and end up creating the threads.
+
+## Part 3
+
+				|  System (Kernel) Time  |  User Time  | Real Time |
+pthread_mutex(count)            |	2.712		 |   3.384     |   3.192   |
+spin lock with thr_yield        |	.044		 |   .188      |  .155     |
+pin_lock without thr yield      |	.000		 |   .296      |  .236     |
+
+The differences in count spin with and without yield is due to the system handling the polling for the thread.
+The difference is between count busy waiting on the threads which yields a faster response time to thread completion.
